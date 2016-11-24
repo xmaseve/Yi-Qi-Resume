@@ -1,0 +1,78 @@
+
+
+.col-sm-8 {
+    background: antiquewhite;
+    height: 930px;
+}
+
+.col-sm-4 {
+    background-color: aliceblue;
+    height: 930px;
+}
+
+#header {
+    background-color: black;
+}
+
+
+
+a {
+	color: white;
+}
+
+
+
+header #col-sm-4 {
+    color: white;
+}
+
+
+
+nav {
+    background-color: black;
+    color: white;
+}
+
+.company {
+	background-color: dimgrey;
+	font-weight: bold;
+	border-radius: 0.1em;
+	color: antiquewhite;
+}
+
+
+h3 {
+    color: black;
+    font-style: italic;
+    margin: 0.1em;
+    text-decoration: underline;
+}
+
+p {
+    margin: 0.1em;
+}
+
+ul {
+    margin: 0.1em;
+}
+
+.highlight {
+    font-weight: bold;
+}
+
+.date {
+	float: right;
+	padding-right: 1em;
+	padding-bottom: 0em;
+	margin: 0em;
+	color: antiquewhite;
+}
+
+
+#gpa {
+	float: right;
+	padding-right: 1em;
+	padding-bottom: 0em;
+	margin: 0em;
+	color: black;
+}
